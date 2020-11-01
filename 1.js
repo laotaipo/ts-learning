@@ -1,3 +1,3 @@
 module.exports = function aa () {
-  console.log(777)
+  console.log(4444)
 }
